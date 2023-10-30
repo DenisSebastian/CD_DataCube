@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+FastSAM/weights/
+
+*.pt
+FastSAM/weights/*.pt
+FastSAM/weights
+
